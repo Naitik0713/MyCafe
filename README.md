@@ -41,7 +41,7 @@ resources provided by Microsoft Azure. They enable you to run virtualized
 Windows or Linux servers in the cloud. Here are some key points about Azure 
 Virtual Machines
 
-![VM1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/04669590-8150-42a6-a120-bc4c32a933ab)
+![vm](https://github.com/Naitik0713/MyCafe/assets/158321766/337f6342-2102-4d3b-a01f-71c9fccb4768)
 
 
  2. Azure Monitor CPU Alert:
@@ -50,7 +50,7 @@ Creating a CPU usage alert in Azure Monitor involves several steps. Azure Monito
 allows you to set up alerts based on various metrics, including CPU usage. Below is a 
 general guide on how to create a CPU usage alert using Azure Monitor:
 
-![VM3](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/783e00df-fa7f-4e30-a9fc-939f4a326289)
+![alert](https://github.com/Naitik0713/MyCafe/assets/158321766/091bd750-2da7-44ac-b73c-806464eaaca4)
 
  Azure AI Service
 
@@ -58,23 +58,23 @@ general guide on how to create a CPU usage alert using Azure Monitor:
  
 It leverages machine learning and natural language processing to understand user queries and provide accurate responses based on predefined knowledge bases. With Azure QnA Maker, developers can create conversational AI agents that can understand a wide range of questions and provide relevant answers in real-time. This service simplifies the process of building chatbots, virtual assistants, and other interactive applications, empowering businesses to enhance customer service, streamline support processes, and automate repetitive tasks.
 
-![translator](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/56f02851-7e0c-4959-b81f-440144531545)
+![bot](https://github.com/Naitik0713/MyCafe/assets/158321766/5d385a8c-5190-4150-b817-4adf2442fb67)
 
 
  Working Live Project Display
     Description :
 Here I am attaching the final working website's screenshot for the reference.
 
-![app1](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/62b50cd7-8aea-46df-91f1-95de4867304e)
+![home](https://github.com/Naitik0713/MyCafe/assets/158321766/b8863b74-3810-4756-8f0b-ea896776beb3)
 
 
-![app2](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/aaf08cdc-1556-4f07-bb10-d4ce3cb55903)
+![contact](https://github.com/Naitik0713/MyCafe/assets/158321766/a2f1540d-5f4e-48f7-9f94-0b1556d11996)
 
 
  Resource Visualizer:
 
 
-![WhatsApp Image 2024-01-11 at 1 55 28 PM](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/4caa3752-2e3a-4620-894c-137951d821fb)
+![rv](https://github.com/Naitik0713/MyCafe/assets/158321766/14ce4bb6-cf8f-4858-824f-d285d1670ba1)
 
 
  Future Enhancements:
@@ -85,5 +85,5 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
  Contact:
-- For questions or suggestions, please contact [jagrutimhase00@gmail.com]
+- For questions or suggestions, please contact [ns2533202@gmail.com]
   
