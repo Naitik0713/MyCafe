@@ -3,7 +3,7 @@ Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 Project Title: MyCafe
 
  Project Details
-- Project Video Drive URL: https://drive.google.com/drive/folders/1Tz92MZV7F9XBgtSNf-8rIImTwIyBh3Ao?usp=sharing
+- Project Video Drive URL: https://drive.google.com/file/d/1Fb9ofQv6m58C2WTLbcY9TIUUqQFLaP3t/view?usp=sharing
 - Project Documentation Drive URL: https://drive.google.com/file/d/1OaKPcZwfEv_gO7GX1kkwr7heoKwk8KNT/view?usp=sharing
 - Project URL: [naitik0713.github.io/MyCafe/](https://naitik0713.github.io/MyCafe/)
 
