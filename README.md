@@ -5,7 +5,7 @@ Project Title: MyCafe
  Project Details
 - Project Video Drive URL: https://drive.google.com/drive/folders/1Tz92MZV7F9XBgtSNf-8rIImTwIyBh3Ao?usp=sharing
 - Project Documentation Drive URL: https://drive.google.com/drive/folders/1l7lqWzSpmmEIbRvWScbI4zfvckJvfFWA?usp=sharing
-- Project URL: naitik0713.github.io/MyCafe/
+- Project URL: [naitik0713.github.io/MyCafe/](https://naitik0713.github.io/MyCafe/)
 
  Problem Statement: 
 'MyCafe,' aims to leverage Azure Cognitive Services to develop an intelligent cafe management system. The system will automate and streamline various aspects of cafe operations, including order processing, customer engagement, inventory management, and staff scheduling. By harnessing the power of Azure Cognitive Services, we seek to enhance the overall customer experience, optimize resource utilization, and ultimately drive revenue growth for cafes."
