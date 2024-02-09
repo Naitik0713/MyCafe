@@ -12,17 +12,12 @@ Project Title: MyCafe
 
 Project Description:
 
-Project Description:
-
 "MyCafe is an innovative solution leveraging Azure Cognitive Services and QnA Maker to revolutionize the cafe experience. By integrating cutting-edge technologies, MyCafe simplifies and enhances various aspects of cafe management, including order processing, customer inquiries, and staff assistance. Through natural language processing capabilities provided by Azure Cognitive Services, customers can interact seamlessly with the cafe's systems, placing orders, seeking recommendations, and getting real-time assistance. QnA Maker further enhances customer engagement by providing instant responses to frequently asked questions. MyCafe empowers cafes to deliver personalized service, optimize operations, and elevate customer satisfaction to new heights."
-
-
-
 
 
  Key Features :
 - Multilingual User Interface
-- Real-Time Language Translation
+- Real-Time Cognitive Language
 - Cross-Language Social Integration
 - Adaptive Learning Mechanism
 - Dynamic Content Updates
@@ -31,12 +26,9 @@ Project Description:
 - Azure Subscription: Make sure you have an active Azure subscription.
 - Azure Virtual Machine: Ensure that you have a virtual machine (VM) or another resource for 
 which you want to monitor CPU usage.
-- Azure Ai Translator Service: Ensure that you have translator service key, region and endpoint to translate the web content.
+- Azure AI search,Azure QnA maker: Ensure that you have Language Resource Key, region and endpoint to using the bot content.
 
 ## Setup:
-- Dependencies: Ensure required libraries and frameworks are installed. Include translation API keys for language support.
-- Configuration: Adjust system parameters, collaborative filtering weights, and translation settings in the configuration file.
-- Training: Train machine learning models using historical data for optimal performance. Set up translation model if applicable
 
  Azure Services Used:
 
@@ -62,10 +54,9 @@ general guide on how to create a CPU usage alert using Azure Monitor:
 
  Azure AI Service
 
- Azure AI Translator Service :
-The core of the translation functionality is powered by Azure AI Translator service. This 
-service employs advanced natural language processing algorithms to provide accurate 
-and contextually relevant translations across a wide array of languages. Azure AI Translator Service is the engine behind the Movie Recommender System app language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.
+ Azure AI QnA maker Service :
+ 
+It leverages machine learning and natural language processing to understand user queries and provide accurate responses based on predefined knowledge bases. With Azure QnA Maker, developers can create conversational AI agents that can understand a wide range of questions and provide relevant answers in real-time. This service simplifies the process of building chatbots, virtual assistants, and other interactive applications, empowering businesses to enhance customer service, streamline support processes, and automate repetitive tasks.
 
 ![translator](https://github.com/ashu2114/Movie-Recommender-System/assets/151042619/56f02851-7e0c-4959-b81f-440144531545)
 
@@ -87,9 +78,10 @@ Here I am attaching the final working website's screenshot for the reference.
 
 
  Future Enhancements:
-- Integration of real-time user feedback for immediate system adaptation.
-- Exploration of deep learning models for even more accurate predictions.
-- User interface improvements for a seamless and engaging experience.
+- Multilingual Support: Enhance Azure QnA Maker to support multiple languages, allowing businesses to cater to a diverse customer base and expand their global reach.
+- Advanced Contextual Understanding: Implement advanced contextual understanding capabilities within Azure QnA Maker to enable more sophisticated interactions. By analyzing the context of conversations and previous interactions, the system can provide more personalized and relevant responses, enhancing the overall conversational experience for users.
+-  This integration would enable users to interact with QnA Maker-powered chatbots using voice commands, opening up new channels for customer engagement and support.
+-  Enhanced Analytics and Insights: Develop robust analytics and reporting features within Azure QnA Maker to provide businesses with valuable insights into user interactions, frequently asked questions, and performance metrics.
 
 
  Contact:
